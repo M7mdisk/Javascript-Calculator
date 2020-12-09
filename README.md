@@ -1,4 +1,4 @@
 
-#Simple Javascript Calculator
+# Simple Javascript Calculator
 
 Part of The Odin Project
